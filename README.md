@@ -41,10 +41,8 @@ I contribute to AI/agent and infrastructure projects in Go:
 ---
 ## GitHub stats
  
-![Yoshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiiita&show_icons=true&count_private=true&theme=default)
- 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiiita&layout=compact&exclude_repo=leetcode,LeetHub-in-Safari)
- 
+[![Yoshita's GitHub stats](https://github-stats-extended.vercel.app/api?username=yoshiiita)](https://github.com/stats-organization/github-stats-extended)
+  
  
  
 ---
