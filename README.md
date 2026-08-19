@@ -62,5 +62,5 @@ Machine learning, reinforcement learning, and LLM/agent systems — building tow
 
 ## Connect
 
-- LinkedIn: [add your LinkedIn URL]
+- LinkedIn: [Link](https://www.linkedin.com/in/yoshita-madamala-3259a21a2)
 - Email: yoshita.m3@gmail.com
